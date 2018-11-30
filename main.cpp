@@ -2,7 +2,7 @@ int main () {
 	// fix 1
 	// fix 2
 	// fix 3
-	// bug 4
+	// fix 4
 	// bug 5
 	// bug 6
 	// bug 7

@@ -1,5 +1,5 @@
 int main () {
-	// bug 1
+	// fix 1
 	// bug 2
 	// bug 3
 	// bug 4

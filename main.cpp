@@ -8,6 +8,6 @@ int main () {
 	// fix 7
 	// fix 8
 	// fix 9
-	// bug 10
+	// fix 10
 	return 0;
 }
